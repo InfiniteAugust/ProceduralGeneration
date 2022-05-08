@@ -1,1 +1,1 @@
-# math-cw2-procedural
+# Procedural Generation - Math Coursework 2
